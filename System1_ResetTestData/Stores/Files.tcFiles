@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}" version="14.0">
+	<children>
+		<child name="VendorDetails_csv" key="{5D9FDCF8-1DC5-4113-AFFE-5544520E5283}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="14.0" caption="VendorDetails_csv" ID="{5D9FDCF8-1DC5-4113-AFFE-5544520E5283}" FileName="VendorDetails.csv" Update="False" />
+		</child>
+	</children>
+</Root>

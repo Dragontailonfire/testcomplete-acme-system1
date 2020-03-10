@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<folder name="Common">
+			<child name="Login" key="{29BC2122-E7C1-444C-8632-FBCE93BEC694}" path="Login.tcKDTest" />
+			<child name="Logout" key="{F9AC733E-072F-4198-B790-437C27AC731F}" path="Logout.tcKDTest" />
+		</folder>
+		<folder name="Navigation">
+			<child name="NavigateTo_UserOptions_ResetTestData" key="{69350FD8-AB17-47FD-854A-DAD8B7555C7A}" path="NavigateTo_UserOptions_ResetTestData.tcKDTest" />
+			<child name="NavigateTo_WorkItems" key="{7479DE92-42C1-484B-89C7-0177C4B4F612}" path="NavigateTo_WorkItems.tcKDTest" />
+			<child name="NavigateTo_SearchForVendor" key="{92A5C8CF-C476-4294-B89F-8D39068B49EE}" path="NavigateTo_SearchForVendor.tcKDTest" />
+		</folder>
+		<folder name="Test">
+			<child name="ResetTestData" key="{F1715055-8599-4312-AE48-B414E2E84580}" path="ResetTestData.tcKDTest" />
+			<child name="WorkItems" key="{73C77054-CDDE-42A6-A4A1-3D5564A2E42E}" path="WorkItems.tcKDTest" />
+			<child name="VendorSearch" key="{0C6169BD-63FB-4E44-A54F-32436967700A}" path="VendorSearch.tcKDTest" />
+		</folder>
+	</children>
+</Root>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{C3CCAA83-33D4-483F-B0FF-AD505ECB185D}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases[&quot;browser&quot;]" Data="61717A69700000000100000046050000780195940B50545518C7CFDD07BBB02C2C0BEDAEC00203ACB168180451D98420C3F0188A611C419147A2840611010D5AC1B4BC234A19D3C6311448411E0669513B82B0CA631128CC2C0858D925151636900576D9BDF7EB2EC2A4D3D48CDFCCFFFCCF9973EFEF7C73EFF79DA0C8103A5A8B17C9D18314775D187221670871D6F7D7164F0E184214264254F62347E4FAA903437C574F94505C8E1225255870FC7E8A25D741C0A17A44BCC0CE7C3F9AD720D9C393A585DAD48578B1DEE35B513DA91862FCEB1433A605FAB25386B685ED437473B6A51DD73535D2F12BD949AF072A69E0AAA6370C5F1A8C004DE70E62BCD167F5C702879983819C5A4B2626789C45D9E2E38B6A068610CBC9DF8E4D733FFE9643D7D4D560E3F2E89B6098CA027CFA081026FD9909C68964581E880445FD1663E12EB69C6B4971DD6061DB838250F3C88839DF6357F97E61FBBD6B11F8D2440618E78A41AF2E27466569DA1BE763E67E6E4D5C581C3D8213AA4C58B91503CAFAAD786EA4553B938E38269699B7BF3FBAAA547A251D6EBB7D69A7FEE1681A1834A5B03C5D81574B02E47EEE16D156E614BE6813637B76B453E35DD9E165E364362C0EC5C1F0696F5D8007EBD01A87676FCF968F4FBAD70FE986AFA7C0D2541EE0DA13D0753E56E16447DFB691B7C9590CCC764F00BFE8C338B796A22437597E8C5016E9CD2AA253118BFCCF14CFAABA36AE7C9E486FFA1AE654A540E8CE407E82A89941432C1A0599FD9F28E43E59246B75220C0B8F4D562DE0AC2B5AB8D0730E0863354C0EE4E86EB6A5CCF47FF748F22B0767E4DF1E50CB5B92D47D4D7B677B2F44CC769D7C79B62ECB49E96C47F333E5BBD9D9FAB563BFDED1F92A09F0A857C01FAA2A00A296540D00BE2E920DABE70056CE003C3C0EC4FD5CD00EEE86C14A91F6597BB34013C7D98EEE75F187CF35A7B47A10DC2220A4E52768FE3458F571A2A8253FDEFD9BFC7837D2DD5AF3F6B9B5B696BCA2223415641DE4C0627F344825AE0F84B6346F1387AC29DBA68AD0E186B13E28D31360DE67049F8CA337CCE814B24FFE09260D5996A53EF73D315B0206453A68AE85C289034E83166698A905D72276072F5BF59B44DFA0FC1DF2F4008C0E2DCEDF9B51B389CB106318C204D65451D24EDE278AEEF40598FE08566E27C248AD9F3EDC9B9DB1C130B92503E39ECE7D5E3A3D79CCD838350E477504B07B0D1058593D7FB63842D9DF94A05EBC5B6000B5048C636FC3B434042F4D72ECB0E009C4E4EB4FF4B5D096EE79B1C8BFF79EA2C258AFB803853A1CEC7F21E0A54BC3D0375809ABF72560184F87998ED78D67DF711C72B0E7F86201BBE3C87BC2FCF19C4C5C9E35D5A53C55DC3CD4FEEE7CFDB0143FA55D013F1580F8F298AEEAF2672BBDB5E19AA278A73681354D8C58363C9458508210ED89EFB8C1A4511163AB90F96A4AD4E6D2C2BC98CEB2EBD219F1C45F2B8C3685FA9982BA9B0CDFA84388E31E884565E5A137723E206BF9BF6FB60DE89A6318C34524A227A7A5D1BF686CA4D4F5F460B5DDDD28395F822CAC6C4C8FFC0DE0820035" />
+					<Bitmap Name="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1VendorsSearch&quot;]" Data="61717A697000000001000000360400007801A593DB4E135114863F131FC047F0D227E001BCB01502E89D89D10B0FD1802406132FBC20A201B546239A28242088062144AA50B84094438A8A508540494B6D6B2DD296434F949976A653DC334082CC95B8276BCFEC4CFE7FAD7FFD6B1F2D2D3A88B18AC47E44C4A1ED38C061F125D6F6FFADC3D6BEC9FF3F178A8BD84FEC649E1A788DBA1E4749AFA2A4565092CBE4125172F108B9B525B2B19FC8BF7D48A17932FE6932BE6F46BEBFF0990489D96EFC833682E3AFF04D0CE21BEB637EC441ECC71CB99530D9480059C44670D68CDF48117E57413AE2C76FBF83EBDE79BED657325D5FC5C8CD4A9C5DCDC8B110B9E53052D863C2E7A5755263B5B89E9DE3C3B562DE5FB7527BBB84A16A8B389F60B4E612937D9D2842935E87DEAFDDF5E7E50CAABF9FE08B8B22A7958F0D56CA9A2DF43CB0F0A5E6186D75677873B71A6975C9D0B217AF652552DF3B903EDB70B79533D0759CB7DD5622CF2DD4345938D550C213C1B1F2CB67F4D584CFC9245D2F89DA2B70BA1B79F8A98A0DE765144719DD1D56AE3EB570CB7692B5C580E18D09AF64C92ECDD0D77B1A47A09389C81053B15E34D70DE67A04BED54A53FB952D9F85BF7BF185BC4241700CCF35D1E879C462729A941CE2F16C1D5E7B29FDEDE54417C65185CFFA8C98F05A1E9D4393D32CBA5BF0B8EF3319EC64D4DBC282FD2C71EF3052D48B2CFAAFA6D74CF8CD824641D3433578F29965A16712351E603DE221E4127334E34095D24243C28CDF146E1A1C7A1D824315B5083D9AE8ABEE8DEEAF3E237931676A2669C2EB77E05F62B7FE9D39DACFFB0F2FAC1CCC" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="Login" />
+			</Operation>
+			<Operation Type="{94838C49-976F-4128-8B05-4E7C3E9C579D}">
+				<Data VariableType="4" VariableName="VendorDetails">
+					<Records FromBegin="True" ToEnd="True" StartRecord="1" StopIndex="1" />
+				</Data>
+				<Children>
+					<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+						<Data Description="Runs a keyword test." TestName="NavigateTo_SearchForVendor" />
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="176" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="17" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90813F19-086D-4670-83BC-DB51386DC224}" Code="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1VendorsSearch&quot;][&quot;textboxVendortaxid&quot;];" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+							<Parameters LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+								<Parameter Name="Keys" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="VendorDetails">
+									<ArrayIndexes LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+										<Parameter Name="Column" DefVarType="0" VarType="8" ValueType="6" ValueValue="Tax ID">
+											<Values>
+												<Value Type="6" Value="Vendor" Text="Vendor" />
+												<Value Type="6" Value="Tax ID" Text="Tax ID" />
+												<Value Type="6" Value="Address" Text="Address" />
+												<Value Type="6" Value="City" Text="City" />
+												<Value Type="6" Value="Country" Text="Country" />
+											</Values>
+										</Parameter>
+									</ArrayIndexes>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90813F19-086D-4670-83BC-DB51386DC224}" Code="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1VendorsSearch&quot;][&quot;textboxVendortaxid&quot;];" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+							<ObjectSyntax LangId="{90813F19-086D-4670-83BC-DB51386DC224}" Code="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1VendorsSearch&quot;][&quot;buttonSearch&quot;];" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+							<Parameters LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90813F19-086D-4670-83BC-DB51386DC224}" Code="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1VendorsSearchResu&quot;];" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1VendorsSearchResult&quot;][&quot;VendorResultTable&quot;][&quot;VendorNameCell&quot;]" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="VendorDetails">
+									<ArrayIndexes LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+										<Parameter Name="Column" DefVarType="0" VarType="8" ValueType="6" ValueValue="Vendor">
+											<Values>
+												<Value Type="6" Value="Vendor" Text="Vendor" />
+												<Value Type="6" Value="Tax ID" Text="Tax ID" />
+												<Value Type="6" Value="Address" Text="Address" />
+												<Value Type="6" Value="City" Text="City" />
+												<Value Type="6" Value="Country" Text="Country" />
+											</Values>
+										</Parameter>
+									</ArrayIndexes>
+								</Parameter>
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1VendorsSearchResult&quot;][&quot;VendorResultTable&quot;][&quot;VendorTaxIdCell&quot;]" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="VendorDetails">
+									<ArrayIndexes LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+										<Parameter Name="Column" DefVarType="0" VarType="8" ValueType="6" ValueValue="Tax ID">
+											<Values>
+												<Value Type="6" Value="Vendor" Text="Vendor" />
+												<Value Type="6" Value="Tax ID" Text="Tax ID" />
+												<Value Type="6" Value="Address" Text="Address" />
+												<Value Type="6" Value="City" Text="City" />
+												<Value Type="6" Value="Country" Text="Country" />
+											</Values>
+										</Parameter>
+									</ArrayIndexes>
+								</Parameter>
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+							<Parameters LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90813F19-086D-4670-83BC-DB51386DC224}" Code="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1VendorsSearch&quot;][&quot;linkHome&quot;];" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+							<Parameters LangId="{90813F19-086D-4670-83BC-DB51386DC224}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90813F19-086D-4670-83BC-DB51386DC224}" Code="Aliases[&quot;browser&quot;][&quot;pageAcmeSystem1Dashboard&quot;];" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="Logout" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{464CFB5C-19F0-4E29-97D1-85C5592D5ADA}">
+		<Items>
+			<Variable Name="VendorDetails" Type="{8ECBD24A-6DA1-4476-A473-EE3A52F06A83}" Local="False">
+				<DefValue Kind="{CE6E0605-AE4F-45D5-8174-7C99555F214B}">
+					<ConnectionInfo FileName="..\Stores\VendorDetails.csv" UseOLEDB="False" Delimiters="," UniteDelimiters="False" HasColumnNames="True" TextQualifier="&quot;" />
+				</DefValue>
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{0F623525-473B-47F8-9D77-D3D75DBB66C4}" />
+</Root>
