@@ -46,7 +46,7 @@
 	<settings key="{2F2223CF-E5E3-4E23-AE10-4AC3BBDF702A}">
 		<settingsVersion value="14.30" />
 		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
-		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
+		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="2" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
 			</columns>
@@ -58,11 +58,13 @@
 				<row val0="Ignore all processes" />
 			</data>
 		</setting>
-		<setting name="ApplicationHangingProcessList" type="6" rowIndex="-1" colIndex="0">
+		<setting name="ApplicationHangingProcessList" type="6" rowIndex="0" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
 			</columns>
-			<data />
+			<data>
+				<row val0="iexplore" />
+			</data>
 		</setting>
 		<setting name="ApplicationHangingTimeout" type="2" value="30000" />
 		<setting name="AzureDevOps_CollectionID" type="5" value="" />
